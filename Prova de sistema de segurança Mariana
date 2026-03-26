@@ -1,0 +1,74 @@
+1. A segurança da informação tem como base três pilares principais. Assinale a alternativa correta:
+b) Confidencialidade, Integridade e Disponibilidade
+
+2. Uma vulnerabilidade em sistemas computacionais pode ser definida como:
+b) Uma falha que pode ser explorada
+
+3. Qual das alternativas representa uma ameaça à segurança da informação?
+c) Malware
+
+4. O principal objetivo de um firewall é:
+b) Monitorar e controlar o tráfego de rede
+
+5. O phishing é um tipo de ataque que:
+b) Rouba informações por meio de engano
+
+6. A política de segurança da informação serve para:
+b) Definir regras e diretrizes de segurança
+
+7. O uso de senhas fracas representa:
+b) Uma vulnerabilidade
+
+8. Qual é um exemplo de controle preventivo?
+c) Antivírus
+
+9. A engenharia social baseia-se principalmente em:
+b) Falhas de software
+
+10. Dispositivos móveis apresentam riscos porque:
+c) Podem ser perdidos ou invadidos
+
+
+
+11. Explique o que é segurança da informação e sua importância nas organizações.
+É a proteção de dados e sistemas contra acessos não autorizados, garante a cinfidencialidade, Integridade e disponibilidade das informações.
+
+
+12. Descreva os três pilares da segurança da informação (CID) e dê um exemplo de cada.
+Confiabilidade: As informações vizualizadas apenas por pessoas que tenham autorização
+
+Integridade: assegura que as informações nn sejam alteradas ou indevidas.
+
+Disponibilidade: Acesso a todas as informações para o usuario que tenha acesso autorizado. 
+
+13. Diferencie ameaça, vulnerabilidade e risco.
+Ameaça: ataques cibernéticos e etc
+
+Vulnerabilidade: falha no sistema, hardware ou software
+
+Risco: chances de vulnerabilidade
+
+14. Cite e explique dois tipos de ataques cibernéticos.
+phishing: manda emil, SMS se passando por outras pessoas/empresas, e roubam informções das pessoas através de links.
+
+Malware: Software malicioso, incluindo vírus, worms, Trojans e spyware, usado para infectar sistemas.
+
+15. Qual é o papel do usuário na segurança dos sistemas?
+Usar senhas fortes, seguir políticas de segurança manter software atualizado, não abrir links suspeitos e etc.
+
+16. Explique a importância das políticas de segurança da informação nas empresas.
+Protegem dados importântes das organizações,reduzem riscos de ataques ciberneticos e perdas.
+
+17. Quais são os principais riscos associados ao uso de dispositivos móveis?
+Os dispositivos podem ser roubados, ou invadidos
+
+18. Descreva duas ferramentas de segurança e suas funções.
+antivírus: bloqueia downloads automáticos maliciosos.
+
+Extensões de Navegador:  bloqueiam scripts de mineração.
+
+19. O que é gestão de segurança da informação e por que ela é importante?
+Protege as informações cobtra ameaças, garantindo a confiabilidade, integridade e disponibilidade das informações.
+
+20. Explique como as organizações podem prevenir incidentes de segurança.
+Treinamento de funcionário, políticas de segurança, controles de acesso, minitoramento e backups regulares.
